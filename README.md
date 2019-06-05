@@ -1,11 +1,11 @@
 # CurvyLapseRate
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3239539.svg)](https://doi.org/10.5281/zenodo.3239539)
 
-Code for analysis of elevation distributed micro-climatology data in a coastal glaciated watershed.
+Code for processing sub-daily temperature sensor data for analysis of elevation distributed micro-climatology processes in a coastal glaciated watershed.  Code allows for visualization and publication of daily data in multiple formats (1) daily data in python dictionaries for analysis (2) daily data for visualization and download on HydroServer at data.cuahsi.org (ODM format), and (3) archive publication on the HydroShare repository (ODM2 format)).
 
-Air temperatures and relative humidity were collected on a longitudinal transect in the North Fork Nooksack River Watershed in Whatcom County, Washington using methods described in (Hubbart et al., 2005; Lundquist & Cayan, 2007; Lundquist & Lott, 2008). This code is useful for assessment of observations, especially lapse rates with increasing elevation and microclimatic influences.  Every hydrologic model that we know of (circa 2019) uses a linear annual lapse rate (e.g. -6.5 C/km clear sky assumption; - 4.5 C/km North Cascades Mountain Range (Minder et al., 2010) to represent the change in temperature with elevation.  We are collecting empirical evidence to test the hypothesis that high elevation temperature lapse rates in glaciated mountain peaks, especially in maritime climates, are linear.  They may be curvy.
+Air temperature and relative humidity were collected on a longitudinal transect in the North Fork Nooksack River Watershed in Whatcom County, Washington using methods described in (Hubbart et al., 2005; Lundquist & Cayan, 2007; Lundquist & Lott, 2008). This code is useful for assessment of observations, especially lapse rates with increasing elevation and microclimatic influences.  Every hydrologic model that we know of (circa 2019) uses a linear annual lapse rate (e.g. -6.5 C/km clear sky assumption; - 4.5 C/km North Cascades Mountain Range (Minder et al., 2010) to represent the change in temperature with elevation.  We are collecting empirical evidence to test the hypothesis that high elevation temperature lapse rates in glaciated mountain peaks, especially in maritime climates, are linear.  They may be curvy.
 
-Curvy is something to be proud of. -Paloma Faith
+Curvy is something to be proud of.     -Paloma Faith
 
 ### Citation suggstions: 
 
