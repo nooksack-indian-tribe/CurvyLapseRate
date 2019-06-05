@@ -3,7 +3,7 @@
 
 Code for analysis of elevation distributed micro-climatology data in a coastal glaciated watershed.
 
-Air temperatures and relative humidity were collected on a longitudinal transect in the North Fork Nooksack River Watershed in Whatcom County, Washington. This code is useful for assessment of observations, especially lapse rates with increasing elevation and microclimatic influences.  Every hydrologic model that we know of (circa 2019) uses a linear annual lapse rate (e.g. -6.5 C/km clear sky assumption; - 4.5 C/km North Cascades Mountain Range) to represent the change in temperature with elevation.  We are collecting empirical evidence to test the hypothesis that high elevation temperature lapse rates in glaciated mountain peaks, especially in maritime climates, are linear.  They may be curvy.
+Air temperatures and relative humidity were collected on a longitudinal transect in the North Fork Nooksack River Watershed in Whatcom County, Washington using methods described in (Hubbart et al., 2005; Lundquist & Cayan, 2007; Lundquist & Lott, 2008). This code is useful for assessment of observations, especially lapse rates with increasing elevation and microclimatic influences.  Every hydrologic model that we know of (circa 2019) uses a linear annual lapse rate (e.g. -6.5 C/km clear sky assumption; - 4.5 C/km North Cascades Mountain Range (Minder et al., 2010) to represent the change in temperature with elevation.  We are collecting empirical evidence to test the hypothesis that high elevation temperature lapse rates in glaciated mountain peaks, especially in maritime climates, are linear.  They may be curvy.
 
 Curvy is something to be proud of. -Paloma Faith
 
@@ -18,5 +18,12 @@ J. Beaulieu, Bandaragoda, C., C. Beveridge, N. Cristea (2019). Nooksack Temperat
 **Code:**
 C. Beveridge, N. Cristea, Bandaragoda, C., J. Beaulieu. (2019, June 5). nooksack-indian-tribe/CurvyLapseRate: Alpha release to create DOI for Nooksack Indian Tribe (Version v0.0.1-alpha). Zenodo. http://doi.org/10.5281/zenodo.3239539
 
+### References
 
+Hubbart, J., Link, T., Campbell, C., & Cobos, D. (2005). Evaluation of a low‐cost temperature measurement system for environmental applications. Hydrological Processes: An International Journal, 19(7), 1517-1523.
 
+Lundquist, J. D., & Cayan, D. R. (2007). Surface temperature patterns in complex terrain: Daily variations and long‐term change in the central Sierra Nevada, California. Journal of Geophysical Research: Atmospheres, 112(D11).
+
+Lundquist, J.D. and Lott, F. 2008. Using inexpensive temperature sensors to monitor the duration and heterogeneity of snow-covered areas.  Water Resour. Res., 44, W00D16, doi: 10.1029/2008WR007035. 
+
+Minder, J.R., Mote, P.W., Lundquist, J.D. 2010. Surface temperature lapse rates over complex terrains: Lessons from the Cascade Mountains. J. Geophys. Res. 115, D14122, doi:10.1029/2009JD013493.
