@@ -9,7 +9,7 @@ Preliminary data analysis from the North Fork Nooksack (northern flank of Mt. Ba
 
 Curvy is something to be proud of.     -Paloma Faith
 
-### Citation suggstions: 
+### Citation suggestions: 
 
 **Data Publication:**
 Bandaragoda, C., J. Beaulieu, N. Cristea, C. Beveridge,  (2019). elevation distributed micro-climatology data in a coastal glaciated watershed, Data in Brief, (in preparation). 
