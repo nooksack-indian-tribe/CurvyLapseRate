@@ -20,7 +20,7 @@ J. Beaulieu, Bandaragoda, C., C. Beveridge, N. Cristea (2019). Nooksack Temperat
 **Code:**
 C. Beveridge, N. Cristea, Bandaragoda, C., J. Beaulieu. (2019, June 5). nooksack-indian-tribe/CurvyLapseRate: Alpha release to create DOI for Nooksack Indian Tribe (Version v0.0.1-alpha). Zenodo. http://doi.org/10.5281/zenodo.3239539
 
-### References
+### References 
 
 Hubbart, J., Link, T., Campbell, C., & Cobos, D. (2005). Evaluation of a low‐cost temperature measurement system for environmental applications. Hydrological Processes: An International Journal, 19(7), 1517-1523.
 
