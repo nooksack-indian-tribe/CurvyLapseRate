@@ -5,6 +5,8 @@ Code for processing sub-daily temperature sensor data for analysis of elevation 
 
 Air temperature and relative humidity were collected on a longitudinal transect in the North Fork Nooksack River Watershed in Whatcom County, Washington using methods described in (Hubbart et al., 2005; Lundquist & Cayan, 2007; Lundquist & Lott, 2008). This code is useful for assessment of observations, especially lapse rates with increasing elevation and microclimatic influences.  Every hydrologic model that we know of (circa 2019) uses a linear annual lapse rate (e.g. -6.5 C/km clear sky assumption; - 4.5 C/km North Cascades Mountain Range (Minder et al., 2010) to represent the change in temperature with elevation.  We are collecting empirical evidence to test the hypothesis that high elevation temperature lapse rates in glaciated mountain peaks, especially in maritime climates, are linear.  They may be curvy.
 
+Preliminary data analysis from the North Fork Nooksack (northern flank of Mt. Baker) shows a consistent annual average (-4.4 C/km) to previous work (Minder et al., 2010).  However, at the lowest elevations (~664m -1056m) the annual average lapse rate is ~ 2.3 C/km; at mid elevations (1056m- 1575m) the annual average lapse rate is ~ 5.4 C/km; at higher elevations (1575m-1743m) the annual average lapse rate is ~ -7.2 C/km.  If mountain lapse rates are significantly different from modeled rates, this is expected to have significant implications for high elevation snow, glacier, and hydrologic model predictions.  
+
 Curvy is something to be proud of.     -Paloma Faith
 
 ### Citation suggstions: 
