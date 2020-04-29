@@ -1,7 +1,7 @@
 # CurvyLapseRate
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3239539.svg)](https://doi.org/10.5281/zenodo.3239539)
 
-Click her to launch interactive Notebooks
+Click here to launch interactive Notebooks
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nooksack-indian-tribe/CurvyLapseRate/master)
 
 Code for processing sub-daily temperature sensor data for analysis of elevation distributed micro-climatology processes in a coastal glaciated watershed.  Code allows for visualization and publication of daily data in multiple formats (1) daily data in python dictionaries for analysis (2) daily data for visualization and download on HydroServer at data.cuahsi.org (ODM format), and (3) archive publication on the HydroShare repository (ODM2 format)).
