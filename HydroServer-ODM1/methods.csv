@@ -1,0 +1,5 @@
+MethodCode,MethodDescription,MethodLink
+iButton_1921_AT,Air temperature measured at four hour intervals,
+iButton_1923_AT,Air temperature measured at three hour intervals with relative humidity,
+iButton_1923_RH,Relative humidity measured at three hour intervals with air temperature,
+iButton_1921_ST,Soil temperature measured at four hour intervals below air temperature sensor,

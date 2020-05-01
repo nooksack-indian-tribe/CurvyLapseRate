@@ -1,4 +1,0 @@
-VariableCode,VariableName,VariableUnitsName,DataType,SampleMedium,ValueType,IsRegular,TimeSupport,TimeUnitsName,GeneralCategory,NoDataValue
-AirTemp_avg,Temperature,degree celsius,Unknown,air,Field Observation,TRUE,1,day,Climate,-9999
-RH,Relative humidity,percent,Unknown,air,Field Observation,TRUE,1,day,Climate,-9999
-SoilTemp_avg,Temperature,degree celsius,Unknown,sediment,Field Observation,TRUE,1,day,Climate,-9999

@@ -1,0 +1,4 @@
+VariableCode,VariableName,VariableUnitsName,DataType,SampleMedium,ValueType,IsRegular,TimeSupport,TimeUnitsName,GeneralCategory,NoDataValue
+AirTemp_avg,Temperature,degree celsius,Average,air,Field Observation,TRUE,1,day,Climate,-9999
+Relative_humidity_avg,Relative humidity,percent,Average,air,Field Observation,TRUE,1,day,Climate,-9999
+SoilTemp_avg,Temperature,degree celsius,Average,soil,Field Observation,TRUE,1,day,Climate,-9999
