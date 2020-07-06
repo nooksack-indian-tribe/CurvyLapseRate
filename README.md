@@ -4,24 +4,30 @@
 Click here to launch interactive Notebooks
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nooksack-indian-tribe/CurvyLapseRate/master)
 
-Code for processing sub-daily temperature sensor data for analysis of elevation distributed micro-climatology processes in a coastal glaciated watershed.  Code allows for visualization and publication of daily data in multiple formats (1) daily data in python dictionaries for analysis (2) daily data for visualization and download on HydroServer at data.cuahsi.org (ODM format), and (3) archive publication on the HydroShare repository (ODM2 format)).
+**Abstract**
+Air temperature, ground temperature and relative humidity data were collected in a longitudinal transect of the Nooksack watershed at varying elevations from 500 to 1800 m above sea level. Data were collected by anchoring sensors from trees above winter snow levels and shaded from direct solar radiation. Paired sensors were also buried 3 cm under ground near each air temperature sensor to determine snow absence or presence. Select sites included relative humidity sensors to indicate whether precipitation was occurring. Data were collected every 3-4 h from December 2015 to Sept 2018 (with ongoing collection). Code for analysis of daily mean, minimum, maximum, and temperature change with elevation (lapse rates) are available on Github (https://doi.org/10.5281/zenodo.3239539). The sensor download and intermediate data products are available on HydroShare at (http://www.hydroshare.org/resource/222e832d3df24dea9bae9bbeb6f4219d) with publicly accessible visualization available from the Nooksack Observatory at data.cuahsi.org. Hydrologic models are generally structured with a single annual average lapse rate parameter which assumes a linear temperature gradient with elevation. The daily data (2016-2018) is used as part of ongoing studies on the non-linear dynamics and temporal variability of temperature with elevation to improve assessments of watershed function and salmon habitat.
 
-Air temperature and relative humidity were collected on a longitudinal transect in the North Fork Nooksack River Watershed in Whatcom County, Washington using methods described in (Hubbart et al., 2005; Lundquist & Cayan, 2007; Lundquist & Lott, 2008). This code is useful for assessment of observations, especially lapse rates with increasing elevation and microclimatic influences.  Every hydrologic model that we know of (circa 2019) uses a linear annual lapse rate (e.g. -6.5 C/km clear sky assumption; - 4.5 C/km North Cascades Mountain Range (Minder et al., 2010) to represent the change in temperature with elevation.  We are collecting empirical evidence to test the hypothesis that high elevation temperature lapse rates in glaciated mountain peaks, especially in maritime climates, are linear.  They may be curvy.
+**Value of the Data**
 
-Preliminary data analysis from the North Fork Nooksack (northern flank of Mt. Baker) shows a consistent annual average (-4.4 C/km) to previous work (Minder et al., 2010).  However, at the lowest elevations (~664m -1056m) the annual average lapse rate is ~ 2.3 C/km; at mid elevations (1056m- 1575m) the annual average lapse rate is ~ 5.4 C/km; at higher elevations (1575m-1743m) the annual average lapse rate is ~ -7.2 C/km.  If mountain lapse rates are significantly different from modeled rates, this is expected to have significant implications for high elevation snow, glacier, and hydrologic model predictions.  
+• The air temperature (Ta), relative humidity (RH), and temperature lapse rate (TLR) data in this collection is the first dataset of this kind available at this location for calibrating and validating downscaled hydrological models in the glaciated North Fork Nooksack River watershed, which drains into Whatcom County, Washington State.
 
-Curvy is something to be proud of.     -Paloma Faith
+• This dataset can be used to more accurately model snow covered area (SCA), snow depth (SD), and snow water equivalent (SWE) in the Nooksack River watershed.
+
+• The Nooksack Observatory serves as a prototype for developing collaboratively supported microclimatology networks.
+
+• This dataset can be downloaded from the CUAHSI HydroClient and Hydroshare for water and atmospheric research in a range of disciplines in need of microclimatology observations and networks, including mountain hydrology, snow accumulation and melt dynamics, climatology, water resources management, drought and fire forecasts, and mountain ecology.
+
 
 ### Citation suggestions: 
 
-**Data Publication:**
-Bandaragoda, C., J. Beaulieu, N. Cristea, C. Beveridge,  (2019). elevation distributed micro-climatology data in a coastal glaciated watershed, Data in Brief, (in preparation). 
+**Data in Brief Journal Publication:**
+Bandaragoda, C., Beaulieu, J., Cristea, N. and Beveridge, C., 2020. Elevation distributed micro-climatology data in a coastal glaciated watershed. Data in Brief, p.105578. https://doi.org/10.1016/j.dib.2020.105578
 
 **Data Resource:**
-J. Beaulieu, Bandaragoda, C., C. Beveridge, N. Cristea (2019). Nooksack Temperature Lapse Rate Study, HydroShare, http://www.hydroshare.org/resource/2d9787bf36d04c9383e595d179f9298b
+Beaulieu, J., C. Bandaragoda, C. Beveridge, N. Cristea (2020). Nooksack Temperature Lapse Rate Study 2016-2018, HydroShare, http://www.hydroshare.org/resource/222e832d3df24dea9bae9bbeb6f4219d
 
 **Code:**
-C. Beveridge, N. Cristea, Bandaragoda, C., J. Beaulieu. (2019, June 5). nooksack-indian-tribe/CurvyLapseRate: Alpha release to create DOI for Nooksack Indian Tribe (Version v0.0.1-alpha). Zenodo. http://doi.org/10.5281/zenodo.3239539
+Beveridge C. , N. Cristea, Bandaragoda, C., J. Beaulieu. (2019, June 5). nooksack-indian-tribe/CurvyLapseRate: Alpha release to create DOI for Nooksack Indian Tribe (Version v0.0.1-alpha). Zenodo. http://doi.org/10.5281/zenodo.3239539
 
 **Land Acknowledgement:**
 The Coast Salish people are the indigenous inhabitants of Western Washington. The Nooksack Watershed, from the peak of Mount Baker to the Bellingham Bay, is the unceded ancestral land of the Nooksack Tribe and Lummi Nation. They are still here, continuing to honor and bring to light their ancient heritage. The University of Washington acknowledges the Coast Salish peoples of this land, the land which touches the shared waters of all tribes and bands within the Suquamish, Tulalip and Muckleshoot nations.
@@ -95,3 +101,4 @@ Thermal Equilibrium of the Atmosphere with a Convective Adjustment
 J. Atmos. Sci., 21 (1964), pp. 361-385, 10.1175/1520-0469
 CrossRefView Record in ScopusGoogle Scholar
 
+### Curvy is something to be proud of.     -Paloma Faith
