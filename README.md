@@ -34,16 +34,19 @@ Using inexpensive temperature sensors to monitor the duration and heterogeneity 
 Water Resour. Res., 44 (2008), 10.1029/2008WR007035
 W00D16
 Google Scholar
+
 [2]
 P.H. Stone, J.H. Carlson
 Atmospheric lapse rate regimes and their parameterization
 J. Atmos. Sci., 36 (3) (1979), pp. 415-423
 CrossRefView Record in ScopusGoogle Scholar
+
 [3]
 J.R. Minder, P.W. Mote, J.D. Lundquist
 Surface temperature lapse rates over complex terrains: lessons from the Cascade mountains
 J. Geophys. Res., 115 (2010), p. D14122, 10.1029/2009JD013493
 Google Scholar
+
 [4]
 A.F. Hamlet, P.W. Mote, M.P. Clark, D.P. Lettenmaier
 Effects of temperature and precipitation variability on snowpack trends in the western United States
@@ -54,32 +57,38 @@ P.W. Mote, S. Li, D.P. Lettenmaier, M. Xiao, R. Engel
 Dramatic declines in snowpack in the western US
 Npj Clim. Atmos. Sci., 1 (1) (2018), p. 2
 Google Scholar
+
 [6]
 C. Frans, E. Istanbulluoglu, D.P. Lettenmaier, A.G. Fountain, J. Riedel
 Glacier recession and the response of summer streamflow in the Pacific Northwest United States, 1960–2099
 Water Resour. Res., 54 (2018), pp. 6202-6225, 10.1029/2017WR021764
 CrossRefView Record in ScopusGoogle Scholar
+
 [7]
 E.P. Maurer, L. Brekke, T. Pruitt, P.B. Duffy
 Fine‐resolution climate projections enhance regional climate change impact studies
 Eos Trans. Am. Geophys. Union, 88 (47) (2007), p. 504
 504
 CrossRefView Record in ScopusGoogle Scholar
+
 [8]
 E.P. Salathé Jr., A.F. Hamlet, C.F. Mass, S.Y. Lee, M. Stumbaugh, R. Steed
 Estimates of twenty-first-century flood risk in the Pacific Northwest based on regional climate model simulations
 J. Hydrometeorol., 15 (5) (2014), pp. 1881-1899
 View Record in ScopusGoogle Scholar
+
 [9]
 B. Livneh, T.J. Bohn, D.W. Pierce, F. Munoz-Arriola, B. Nijssen, R. Vose, L. Brekke
 A spatially comprehensive, hydrometeorological data set for Mexico, the US, and Southern Canada 1950–2013
 Sci. Data, 2 (2015), Article 150042
 View Record in ScopusGoogle Scholar
+
 [10]
 B. Henn, M.S. Raleigh, A. Fisher, J.D. Lundquist
 A comparison of methods for filling gaps in hourly near-surface air temperature data
 J. Hydrometeorol., 14 (3) (2013), pp. 929-945
 View Record in ScopusGoogle Scholar
+
 [11]
 S. Manabe, R.F. Strickler
 Thermal Equilibrium of the Atmosphere with a Convective Adjustment
